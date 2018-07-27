@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="E:\lib\json\json-simple-1.1.jar\json-simple-1.1.jar" destdir="doc" doctitle="Json Read and Write In Java" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.writejson" source="1.8" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>

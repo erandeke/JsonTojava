@@ -1,0 +1,6 @@
+{"Database 1":"Fi.trades",
+"Database 2":"Fi.trades.hist",
+"Source-System":["GC","BIG-TOMS","HEN"],
+"Exclude-Data":["_id","eventId","srcMsg"],
+"BatchSize ":2,
+"Iterations":"1"}
